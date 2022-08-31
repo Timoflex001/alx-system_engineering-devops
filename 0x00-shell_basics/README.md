@@ -8,3 +8,4 @@ Task 6: bash script that creates a dir.
 Task 7: bash script that moves a file.
 Task 8: bash script that deletes a file.
 Task 9: bash script that deletes a directory.
+Task 10: bash script that changes current working dir to the previous.
