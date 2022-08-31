@@ -6,3 +6,4 @@ Task 4: bash script to display current dir contents including hidden files.
 Task 5: bash script to display current dir contents with user and group IDs.
 Task 6: bash script that creates a dir.
 Task 7: bash script that moves a file.
+Task 8: bash script that deletes a file.
