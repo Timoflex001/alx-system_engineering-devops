@@ -12,3 +12,4 @@ Task 10: bash script that changes current working dir to the previous.
 Task 11: bash script that lists files for different directories.
 Task 12: bash script for checking file type.
 Task 13: bash script for creating symbolic links.
+Task 14: bash script for copying html files.
