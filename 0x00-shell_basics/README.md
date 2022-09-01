@@ -10,3 +10,4 @@ Task 8: bash script that deletes a file.
 Task 9: bash script that deletes a directory.
 Task 10: bash script that changes current working dir to the previous.
 Task 11: bash script that lists files for different directories.
+Task 12: bash script for checking file type.
