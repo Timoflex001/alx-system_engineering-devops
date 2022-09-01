@@ -14,3 +14,4 @@ Task 12: bash script for checking file type.
 Task 13: bash script for creating symbolic links.
 Task 14: bash script for copying html files.
 Task 15: bash script that moves files beginning with uppercase.
+Task 16: bash script that removes emacs files.
