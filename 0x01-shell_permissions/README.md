@@ -5,3 +5,4 @@ Task 3: bash script.
 Task 4: bash script.
 Task 5: bash script.
 Task 6: bash script.
+Task 7: bash script.
