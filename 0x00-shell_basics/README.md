@@ -17,3 +17,4 @@ Task 15: bash script that moves files beginning with uppercase.
 Task 16: bash script that removes emacs files.
 Task 17: bash script that moves multiple dirs.
 Task 18: bash script.
+Task 19: bash script.
