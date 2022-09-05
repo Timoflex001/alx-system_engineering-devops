@@ -5,3 +5,4 @@ Task 4: Lines of a file
 Task 5: first lines
 Task 6: iacta file
 Task 8: cwd state
+Task 12: what's new
