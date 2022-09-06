@@ -16,3 +16,4 @@ Task 19: AZ
 Task 20: hiago
 Task 21: reverse
 Task 22: cut
+Task 10: js
