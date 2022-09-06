@@ -21,3 +21,4 @@ Task 23: empty
 Task 24: gifs
 Task 25: acrostic
 Task 26: fan
+Task 9: duplicate lines
